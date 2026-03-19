@@ -65,8 +65,4 @@ The database is designed using relational models and follows normalization princ
 
 ---
 
-## ⚙️ Installation & Setup
 
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/mavi-db-system.git
